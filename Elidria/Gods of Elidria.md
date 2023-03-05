@@ -15,7 +15,7 @@ He is revered by those who seek justice, honor, and righteousness, as well as by
 
 Aurius' holy symbol is a sword crossed with a balance scale. The sword represents his role as a warrior and defender of justice, while the balance scale represents his impartiality and commitment to upholding the law. The symbol is often worn by his followers as a sign of their devotion to Aurius and their commitment to seeking justice and fairness in all aspects of their lives.
 
-## , The God of War and Conquest - A flaming sword
+## Kaelor, The God of War and Conquest - A flaming sword
 A powerful deity revered by warriors, soldiers, and conquerors, Kaelor is often depicted as a muscular man wearing armor and wielding a weapon, such as a sword or a spear. His followers believe that he can grant them strength, courage, and victory in battle, as well as protect them from harm and guide them in their quest for glory and power. They also strive to honor his virtues of bravery, discipline, and loyalty in their military service and conquests.
 
 Kaelor's holy symbol is a flaming sword. The sword represents his martial prowess and his role as a deity of war, while the flames represent the destructive power and passion of battle. The symbol is often worn by his followers as a sign of their devotion to Kaelor and their commitment to using their strength and skills for martial purposes. It is also often engraved on weapons, armor, and banners of armies that seek Kaelor's favor and protection in their military campaigns.
