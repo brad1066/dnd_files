@@ -1,0 +1,13 @@
+# Skyfall
+
+200 Years Ago, nearing the end of the Age of War, there was a mass incursion of demonic forces into the material plane. This sudden invasion was heralded by smaller incursions that increased exponentially into full invasion over the course of 6 months. These incursions came in the form of the sporadic opening of planar rifts. Usually only a small number of demons could pass through before it would wink out of existence.
+
+The demons, once cut off from their plane, were much weakened and could be easily put down. But as these incursions became more frequent, and stayed open for longer, it became significantly more difficult to kill the Abyssal beings.
+
+Finally came the day when the rifts would remain open long enough for another to appear, and then another. Within a week rifts would remain open for hours at a time, spewing hundreds of demons before closing. In that time, another 2 rifts will have opened to take it's place. By the end of that week, the sky was filled with so many overlapping rifts to form a singular tear that spewed demons of various forms from across the infinite planes of the Abyss. 
+
+For a decade, the tear into the Abyss remained open, forcing the denizens of the material plane either out of the plane or into the depths of the earth to escape the chaos. A large number of the Elves returned to the Faewilds, others to the Shadowfell, with the majority of the remained travelling to the Underdark to escape, with the option to return to the surface when the threat had been wiped away. These Elves adapted to their new homes to create the Eladrin, Shadar-kai and Drow respectively. 
+
+The elves and other intelligent races of the material plane banded together to drive back the hoards, close the tear, and restore balance and order to the plane. The events of the final days of the invasion (later called the Skyfall) are largely unknown, but resulted in the a shockwave rocking the planes and closing the tear and all the minor rifts that were open. The hordes of the Abyss hadn't been seen since.
+
+The only stories of the Skyfall have been largely forgotten, and the details hardly remain intact. Only vague mentions of a period of darkness and chaos that drove the elves from the plane and forced a shift in the powers that be. Many races had partially adapted to their new homes (at least in part), so remained. The rest returned to a much destroyed surface. The next 150 years were spent rebuilding society. Minor scuffles broke out, but no one wanted a return to full on war, so they were quickly broken up. This was the Age of Recovery
