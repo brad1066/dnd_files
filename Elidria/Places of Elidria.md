@@ -60,6 +60,7 @@ The Great Hall: At the center of Hammerhold is the Great Hall, a massive chamber
 The Mines: The mountains around Hammerhold are rich in minerals and precious metals, and the city is home to many mines and tunnels that stretch deep into the earth. These mines are dangerous and dark, filled with hazards like cave-ins, gas pockets, and underground rivers. But the dwarves of Hammerhold are fearless and skilled miners, and they extract valuable ores and gems that are used to fuel the city's forges and workshops.
 
 The Arena: Finally, Hammerhold is home to the Arena, a massive pit where dwarves gather to watch and participate in brutal battles and contests of strength. The Arena is surrounded by high walls and guarded by skilled warriors, and many come from all over Elidria to compete in its blood-soaked games.
+
 ## Hearthhaven
 A small Halfling village located in a dense forest, Hearthhaven is home to a community of artisans and craftspeople. The Halflings here are known for their skill at woodworking and weaving, and their homes are often decorated with beautiful carvings and tapestries. The village is also home to a number of skilled hunters, who provide the community with fresh game and fish.
 
