@@ -74,7 +74,7 @@ A massive fortress built into the side of a mountain, Ironhold is the ancestral 
 A small dwarven city located on the edge of the [Frostlands](#frostlands), Mithril Hall is home to a community of craftsmen who specialize in creating intricate and beautiful works of art from mithril, a rare and valuable metal. The city is also home to a number of skilled fighters, who are trained to defend the city from raiders and other threats.
 
 ## Ravenholm
-A small town nestled in the foothills of the [Iron Mountains](#iron-mountains), due east of the [City of Elidria](#city-of-elidria).  Ravenholm is home to a community of hunters and trappers who supply the larger cities with furs and game. The town is also known for its skilled blacksmiths, who produce high-quality weapons and tools.
+A small town nestled in the foothills of the [Iron Mountains](#iron-mountains), due west of the [City of Elidria](#city-of-elidria).  Ravenholm is home to a community of hunters and trappers who supply the larger cities with furs and game. The town is also known for its skilled blacksmiths, who produce high-quality weapons and tools.
 
 ## Rivercross
 A bustling Halfling town located on the banks of a wide river, Rivercross is home to a thriving community of traders and merchants. The Halflings here are known for their shrewd business sense and their skill at negotiating deals. The town is also home to a number of skilled boat-builders, who craft the sturdy vessels that ply the river trade routes.
