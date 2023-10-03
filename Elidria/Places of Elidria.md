@@ -1,4 +1,5 @@
 # Places of Elidria
+
 ----
 ## The Citadel of Ice
 An imposing fortress built on a high plateau in the heart of the [Frostlands](#frostlands), the Citadel of Ice is a place of great danger and mystery, where few have ventured and even fewer have returned. Here are some details about the Citadel of Ice:
@@ -118,6 +119,7 @@ The Mage's Guildhall in Elidria is a place of great knowledge and power, where t
 * Library: The Mage's Guildhall is also home to a vast library that contains countless tomes and scrolls that detail the history of magic, the workings of the universe, and the secrets of powerful spells. The library is tended by skilled librarians who are trained in the magical arts, and they are always willing to assist mages who seek knowledge.
 
 ## The Temple of the High Priests
+
 The Temple of the High Priests in Elidria is a sacred and revered place, where the most devout and powerful clerics come to worship the gods and seek their guidance. It is located in the heart of the holy city, and its imposing architecture and richly decorated interior inspire awe and reverence in all who enter. Here are some details about the Temple of the High Priests:
 * Architecture: The Temple of the High Priests is built in a grand and majestic style, with soaring arches, towering pillars, and intricate carvings that depict scenes from Elidrian mythology. The exterior is made of white marble that gleams in the sunlight, and the temple's many towers and spires are topped with gilded domes and statues of the gods. The temple is surrounded by a high wall made of the same white marble, with ornate gates that are guarded by holy warriors.
 * Interior: The interior of the Temple of the High Priests is just as impressive as the exterior. The main hall is vast and cavernous, with a soaring ceiling and a central altar that is carved from a single block of pure crystal. The walls are adorned with frescoes and tapestries that depict the deeds of the gods, and there are numerous side chapels and shrines where worshippers can offer their prayers and offerings. The air is filled with the scent of incense, and the sound of hymns and prayers can be heard echoing through the halls.
