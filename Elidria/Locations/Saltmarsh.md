@@ -6,8 +6,12 @@ Saltmarsh is a small fishing town, which is known locally for pulling in a good 
 
 ### John Greenman
 
-- Firbolg Greengrocer - Soft brown fur, white fur on face. Green/Hazel eyes. average height for a Firbolg.
-
+Race: Firbolg
+Age: 100
+Height: 4'7"
+Hair: Soft Brown, Short, White fur on face
+Countenance: Quiet, Kind, loves nature and plants
+Role: Greengrocer
 
 ### Joan Fabler
 
@@ -15,17 +19,38 @@ Saltmarsh is a small fishing town, which is known locally for pulling in a good 
 
 ### Kal Fisher
 
-- Triton fisherman - Light blue scales (kinda dry from being on-shore). Yellow eyes and edges of fin and fingers. Around 5'11".
+Race: Triton
+Age: 100
+Height: 6'0"
+Hair: None - Light blue scales (kinda dry from being on-shore)
+Countenance: Loud, funny, loves animals
+Role: Fisherman
+
+Yellow eyes and edges of fin and fingers
 
 ### Kelly Butcher
 
+
+
 ### Bobby Baker
 
-- Human baker - Tall, quiet, pale skinned. Large blue eyes and yellow-blonde hair
+Race: Human
+Age: 50
+Height: 6'2"
+Hair: Balding, Grey
+Countenance: Kind, fun if you have a good relationship with Hhim, but takes no shit
+Role: Baker
 
 ### Mark Jackson
 
 ### Meryll Shank
+
+Race: Human
+Age: 36
+Height: 5'7"
+Hair: Brown, Short
+Countenance: Kind, fun if you have a good relationship with her, but takes no shit
+Role: Barmaid
 
 ### Mayor Clarence Jordan
 
@@ -62,6 +87,14 @@ Inside there is an arrangement of chairs and tables, with the far end being take
 Inn ran by [*Meryll Shank*](#meryll-shank)
 
 Quite a new building (as with all the permanent buildings in the town), it is  of a light (almost white) stone and has a light brown tiling on the roof. A heavy smell of beer and alcohol hungs around the pub, but is swept away by the briny air that comes from the sea to the west of the town.
+
+Prices:
+- Food:
+    - Meat and bread: 5cp
+    - Soup: 5cp
+    - Bread: 1cp (for 2 thick slices)
+- Room: 8cp per night
+- Room & Dinner: 1sp (10cp)
 
 ### Mayor's Office
 
