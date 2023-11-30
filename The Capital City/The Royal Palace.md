@@ -1,0 +1,7 @@
+The Royal Palace is a grand and imposing structure, built to showcase the wealth and power of the ruling monarch. It is located at the heart of [[The City of Elidria]], it many towers and spires visible for miles around.
+## The Architecture
+The Palace is built in a grand and ornate style, with many towers, spires and arches. The exterior is made of white stones, intricately carved with miagery of legendary heroes, mythical beasts and scenes from Elidrian History. The Palace is surrounded by a high wall made of the same stone, with imposing gates that are well guarded day and night by well-trained soldiers.
+## Interior
+The interior of the Royal Palace is just as grand as it's exterior. The halls and corridors are lined with marble pillars and adorned with rich tapestries and paintings. The floors are also of a white marble, polished to a reflect the ceilings above, which are painted with intricate murals from Myth. [[The Throne Room]] is particularly impressive, with a vaulted ceiling above and a golden bejeweled throne at the end of the room.
+## Gardens
+Surrounding the Palace are [[The Royal Gardens]]. They are tended by the team of skilled gardeners and filled with exotic plants and flowers from all over [[Elidria]]. There are numerous fountains and ponds that provide a calming and peaceful atmosphere. They are home to a number of rare and exotic animals, such as peacocks and parrots. The occasional Unicorn is said to be sighted by the many visitors.
